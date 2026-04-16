@@ -74,12 +74,22 @@ The dashboard is structured into multiple levels:
 
 ## 📂 Project Structure
 
-```bash id="n2rm5g"
+```bash id="2nwrm6"
 Restaurant-Analytics-Dashboard/
 │── app.py
 │── Dataset.csv
 │── requirements.txt
 │── README.md
+```
+
+---
+
+## 🌐 Live Demo
+
+Add your deployed Streamlit app link here:
+
+```text id="7g5v2m"
+https://your-streamlit-app-link.streamlit.app
 ```
 
 ---
@@ -92,12 +102,6 @@ Restaurant-Analytics-Dashboard/
 * Online delivery improves customer convenience and reach.
 * Top cities show higher restaurant competition and business activity.
 * Chains benefit from consistency and brand loyalty.
-
----
-
-## 📸 Screenshots
-
-*Add dashboard screenshots here.*
 
 ---
 
