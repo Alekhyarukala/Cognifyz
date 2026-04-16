@@ -86,13 +86,9 @@ Restaurant-Analytics-Dashboard/
 
 ## 🌐 Live Demo
 
-Add your deployed Streamlit app link here:
+Streamlit app link:
 
-```text id="7g5v2m"
-https://your-streamlit-app-link.streamlit.app
-```
-
----
+https://cognifyz-djbdptl6c9hqgpz7rldcoi.streamlit.app/
 
 ## 📊 Key Insights Generated
 
